@@ -9,17 +9,11 @@ Microsoft Excel
 
 
 ### Installing
+The following project can be downloaded as excel file as well as PDF format.
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+The output of the project is attached with the dataset and screenshots are also added.
 
 ## Help
 
@@ -31,9 +25,8 @@ command to run if program contains helper info
 ## Authors
 
 Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Name:V.Mythili
+mail ID:Mythilivelmurugan74@gmail.com
 
 ## Version History
 
